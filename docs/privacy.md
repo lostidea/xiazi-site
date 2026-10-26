@@ -1,9 +1,3 @@
----
-layout: default
-title: 隐私说明
-permalink: /privacy/
----
-
 # 隐私说明
 
 匣子（Xiazi）是装在你自己电脑上的 Windows 软件。
